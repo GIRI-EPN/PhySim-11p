@@ -20,8 +20,7 @@ are located in the folder code.
     inconvenience. 
     If you want to re-simulate the physical layer, you must first run the file 
     simulation_802_11_p.m  and then proceed to run Selec_grap.m
-
-This version includes a realistic channel model for vehicular communications
+    This version includes a realistic channel model for vehicular communications
 
 2. The folder html contain the user manual with the commented code. 
 You must run the Selec_grap.html file that is the main one.
